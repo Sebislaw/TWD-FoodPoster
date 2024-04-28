@@ -9,7 +9,7 @@ Authors:
 [@mickuk](https://github.com/mickuk)
 
 <div align="center">
-  <img src="Kukla_Matuszyk_Pergala.pdf" width="900"/>
+  <img src="Kukla_Matuszyk_Pergala.png" width="900"/>
 </div>
 
 
