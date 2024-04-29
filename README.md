@@ -2,11 +2,11 @@
 
 Authors: 
 
-Sebastian Pergała [@Sebislaw](https://github.com/Sebislaw)
+[@Sebislaw](https://github.com/Sebislaw)
 
-Michał Matuszyk [@CoolMikey](https://github.com/CoolMikey)
+[@CoolMikey](https://github.com/CoolMikey)
 
-Michał Kukla [@mickuk](https://github.com/mickuk)
+[@mickuk](https://github.com/mickuk)
 
 <div align="center">
   <img src="Kukla_Matuszyk_Pergala.png" width="900"/>
